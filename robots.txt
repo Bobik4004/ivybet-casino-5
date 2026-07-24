@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://ivybet-casino-5.vercel.app/sitemap.xml
+Sitemap: https://ivybet-casino-5-phi.vercel.app/sitemap.xml
